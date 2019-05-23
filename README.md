@@ -48,7 +48,7 @@ class App extends React.Component {
 
 const mapStateToProps = state => ({
   users: users && users.list,
-})
+});
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
 ```
