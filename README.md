@@ -1,8 +1,16 @@
-# redux-saga-wrapper
+# redux-feathers
 
 Wrap Feathers services to use them as redux actions and put their result into the state.
 
 This package directly depends on [redux-saga-wrapper](https://www.npmjs.com/package/redux-saga-wrapper).
+
+## Installation
+
+```bash
+npm i redux-feathers --save
+# or
+yarn add redux-feathers
+```
 
 ## How to use
 
