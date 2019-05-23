@@ -1,0 +1,15 @@
+{
+  "name": "redux-feathers",
+  "version": "0.0.1",
+  "description": "Wrap Feathers services to use them as redux actions and put their result into the state.",
+  "main": "lib/index.js",
+  "repository": "arthurchaloin/redux-feathers",
+  "author": "Arthur Chaloin",
+  "license": "MIT",
+  "keywords": ["redux", "feathers", "redux-saga", "saga", "react"],
+  "dependencies": {
+    "immutability-helper": "^3.0.0",
+    "redux": "^4.0.1",
+    "redux-saga-wrapper": "^0.0.1"
+  }
+}
