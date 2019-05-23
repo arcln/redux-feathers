@@ -7,9 +7,9 @@ This package directly depends on [redux-saga-wrapper](https://www.npmjs.com/pack
 ## Installation
 
 ```bash
-npm i redux-feathers --save
+npm i redux-saga-wrapper redux-feathers --save
 # or
-yarn add redux-feathers
+yarn add redux-saga-wrapper redux-feathers
 ```
 
 ## How to use
