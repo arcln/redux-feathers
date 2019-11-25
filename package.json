@@ -1,6 +1,6 @@
 {
   "name": "redux-feathers",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Wrap Feathers services to use them as redux actions and put their result into the state.",
   "main": "lib/index.js",
   "repository": "arthurchaloin/redux-feathers",
